@@ -1,5 +1,4 @@
 # FirstGitProject
-my first git project 
-sfjlsafjskfjiefjsdjfks
+my first git project
 trhthrthth
 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
